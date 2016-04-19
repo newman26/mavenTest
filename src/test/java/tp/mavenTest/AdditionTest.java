@@ -26,7 +26,7 @@ public class AdditionTest {
 
 	@Test
 	public void testLireSymbole() throws Exception {
-		assertEquals((Character) '+', op.lireSymbole());
+		assertEquals((Character) '-', op.lireSymbole());
 	}
 
 
